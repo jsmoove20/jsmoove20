@@ -12,8 +12,8 @@ In addition, I've assisted small businesses with loan inquiries and guided loan 
 
 I'm proficient with SQL and Tableau, with a sufficient understanding of statistical analysis, causal inference, relational databases, and social engagement. With all these numbers I do also enjoy genuine conversations about the latest tech, software, and R&D in the world of Data and Psychology!
 
-- 🌱 I’m currently learning advanced SQL Queries and Understanding from the University of California, Davis' 'SQL For Data Science'.
-- 💞️ I’m looking to collaborate on projects and long-time hiring for the Insurance/Healthcare Industry.
+- 🌱 I’m currently learning advanced Python from the University of Michigan.
+- 💞️ I’m looking to collaborate on projects and long-time hiring for a Data Analyst Role with you.
 - 📫 How to reach me:
 -       jonsalotti@gmail.com
 
