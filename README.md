@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsmoove20
-I'm a prospective junior data analyst, with a strong passion for reach on positive engagement and intrinsic motivation. 
+I'm a Technical Business Analyst, with a strong passion for reach on positive engagement and intrinsic motivation. 
 As a new grad from Keuka College, I'm also the inaugural recipient of the Trevor Irby '17 Leadership Award in 2020 (Highest Undergraduate Honor). 
 Completed the Google Data Analytics Professional Certificate Spring of 2022. 
 
